@@ -1,1 +1,1 @@
-# codesocial
+print("hello world")
